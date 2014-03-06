@@ -1,3 +1,9 @@
+####Quick little presentation page I whipped up, I know this technique has been done before but felt I’d give it my own spin with keyboard 1-7 interaction.
+
+(Don't forget to press #'s 1-7)
+
+===
+
 #  HTML5 Reset (http://html5reset.org)
 
 ## Summary:
